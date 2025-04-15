@@ -5,7 +5,7 @@
 Me chamo Gustavo Kenzo Iwakura, tenho 18 anos e sou natural do Paraná. Conclui o ensino médio no Sesi Senai de Maringá, com o curso de Técnico em Desenvovimento de Sistemas. Atualmente, estou cursando Analíse e Desenvimento de Sistemas na UniCesumar. Sou apaixonado por tecnologia e por programação.
 <br>
 <div>
-  <a href = "gustavokenzoiwakura189@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavokenzoiwakura189@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavokenzoiwakura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/g.kenzou_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
